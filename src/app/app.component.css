@@ -1,0 +1,62 @@
+.content-body {
+  margin-top:50px;
+
+  position: absolute;
+    margin-right: auto;
+  margin-left : 30px;
+
+}
+
+
+
+
+
+mat-toolbar {
+  background: #009580;
+  text-align: center;
+  font-size: 40px;
+  color: #ffffff;
+  height: 70px;
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+
+mat-toolbar div {
+  text-align: center;
+  font-size: 40px;
+
+}
+
+a { text-decoration: none;}
+a:hover { text-decoration: none;}
+
+mat-card {
+  float: left;
+  width: 500px;
+  height: 400px;
+  margin: 0px 10px 30px 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+mat-card  a a div img {
+ width: 100%;
+
+}
+
+mat-card-title {
+  height: 60px;
+}
+
+mat-toolbar-row {
+  justify-content: space-between;
+}
+
+.done {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+}
+
